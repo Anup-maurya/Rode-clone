@@ -6,7 +6,7 @@ This clone is built using **HTML5, CSS3 and Tailwind CSS**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://rodeclonebyanup.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://anup-maurya.github.io/Rode-clone/">**Visit Now** 🚀</a>
 
 <br>
 
